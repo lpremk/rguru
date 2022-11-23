@@ -1,0 +1,45 @@
+.banner{
+    background-color: cornflowerblue;
+    padding-top: 46px;
+    padding-bottom: 46px;
+    color: white;
+}
+.banner .heading{
+    font-weight: 400;
+    font-size: 24px;
+    padding-top: 20px;
+}
+.content2{
+    padding-top: 46px;
+    padding-bottom: 46px;
+    background-color: cornflowerblue;
+}
+.content2 .heading{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.content2 .heading{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: 27px
+}
+.content2 li.list-group-item.text-center {
+    font-size: 18px;
+}
+
+.content1{
+    padding-top: 46px;
+    padding-bottom: 46px;
+    
+}
+
+.content1 button.accordion-button {
+    font-size: 20px;
+    font-weight: 500;
+}
+.content1 li {
+    font-size: 20px;
+    font-weight: 500;
+    color: indianred;
+}
